@@ -1,53 +1,64 @@
-## Flow Tracking (MT5 + React + Overlay)
+What this file is
 
-Local app to track per-session flow notes and render them as overlays on top of an `lightweight-charts` candlestick chart.
+This file tracks daily state of core macro assets in a structured format.
 
-### Symbols (BlackBull MT5)
-- `DJ30.f`
-- `USTEC.f`
-- `US500.f`
+It is the input layer of the system.
 
-### Run (Windows)
-1. Ensure BlackBull MT5 is installed and logged in:
-   - `C:\Program Files\BlackBull Markets MT5\terminal64.exe`
-2. Ensure repo venv exists (recommended): `e:\Trade folder\Trading_analyze\.venv\Scripts\python.exe`
-3. Install backend deps:
+Purpose
+Capture current market behavior (not opinion)
+Standardize inputs for all prompts (P1 → P3.3)
+Enable consistent, repeatable analysis
+Assets Tracked
 
-```bash
-e:\Trade folder\Trading_analyze\.venv\Scripts\python.exe -m pip install -r flow_tracking\backend\requirements.txt
-```
+Core drivers only:
 
-4. Install frontend deps (one time):
+DXY (USD)
+US10Y (Rates)
+VIX (Volatility)
+GOLD (GC)
+OIL
+Input Format
+Symbol	Direction	Speed	ΔSpeed	Control
+Field Definitions
 
-```bash
-cd flow_tracking\frontend
-npm install
-```
+Direction
 
-5. Dev mode (2 terminals):
+↑ = rising
+↓ = falling
+→ = sideways
+→ current move only
 
-```bash
-# terminal 1
-e:\Trade folder\Trading_analyze\.venv\Scripts\python.exe flow_tracking\backend\app.py
+Speed
 
-# terminal 2
-cd flow_tracking\frontend
-npm run dev
-```
+Slow / Moderate / Fast
+→ strength of the move
 
-Then open:
-- Backend health: `http://127.0.0.1:5057/api/health`
-- Frontend dev: `http://127.0.0.1:5173`
+ΔSpeed (critical)
 
-### Production-ish (single server)
-Build frontend and serve `frontend/dist` from Flask:
+↑ = strengthening
+→ = stable
+↓ = weakening
+↓↓ = continuous weakening
 
-```bash
-cd flow_tracking\frontend
-npm run build
-e:\Trade folder\Trading_analyze\.venv\Scripts\python.exe ..\backend\app.py
-```
+→ detects transition / turning point
 
-### Start script
-- `flow_tracking\START.bat` launches MT5, fetches data via API calls on demand, then starts the backend and opens the app.
+Control
 
+Demand = buyers in control
+Supply = sellers in control
+Neutral = no dominance
+
+→ structural context (NOT current move)
+
+Key Rules
+Direction = what price is doing NOW
+Control = who is in control STRUCTURALLY
+ΔSpeed = most important signal
+Example
+Symbol	Direction	Speed	ΔSpeed	Control
+DXY	↑	Slow	↓↓	Supply
+VIX	↓	Moderate	↓	Supply
+How to Use
+Update this table daily
+Feed directly into Prompt 1
+Do NOT reinterpret after input
