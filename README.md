@@ -1,64 +1,89 @@
-What this file is
+# Macro State Input – Structured Framework
 
-This file tracks daily state of core macro assets in a structured format.
+## Overview
+This file tracks the daily state of core macro assets in a structured format.  
+It serves as the input layer for the system.
 
-It is the input layer of the system.
+## Purpose
+- Capture current market behavior (not opinion)  
+- Standardize inputs across all modules (P1 → P3.3)  
+- Enable consistent and repeatable analysis  
 
-Purpose
-Capture current market behavior (not opinion)
-Standardize inputs for all prompts (P1 → P3.3)
-Enable consistent, repeatable analysis
-Assets Tracked
+---
 
-Core drivers only:
+## Core Drivers
+The system focuses on key macro assets:
 
-DXY (USD)
-US10Y (Rates)
-VIX (Volatility)
-GOLD (GC)
-OIL
-Input Format
-Symbol	Direction	Speed	ΔSpeed	Control
-Field Definitions
+- **DXY (USD)** → global liquidity  
+- **US10Y (Rates)** → tightening vs easing  
+- **VIX (Volatility)** → risk conditions  
+- **Gold (GC)** → defensive behavior  
+- **Oil (Energy)** → inflation pressure  
 
-Direction
+---
 
-↑ = rising
-↓ = falling
-→ = sideways
-→ current move only
+## Input Structure
 
-Speed
+Each asset is described using four components:
 
-Slow / Moderate / Fast
-→ strength of the move
+- **Direction**
+- **Speed**
+- **ΔSpeed (critical)**
+- **Control**
 
-ΔSpeed (critical)
+---
 
-↑ = strengthening
-→ = stable
-↓ = weakening
-↓↓ = continuous weakening
+## Definitions
 
-→ detects transition / turning point
+### Direction
+Represents the current price movement:
 
-Control
+- ↑ = rising  
+- ↓ = falling  
+- → = sideways  
 
-Demand = buyers in control
-Supply = sellers in control
-Neutral = no dominance
+→ reflects **current move only**
 
-→ structural context (NOT current move)
+---
 
-Key Rules
-Direction = what price is doing NOW
-Control = who is in control STRUCTURALLY
-ΔSpeed = most important signal
-Example
-Symbol	Direction	Speed	ΔSpeed	Control
-DXY	↑	Slow	↓↓	Supply
-VIX	↓	Moderate	↓	Supply
-How to Use
-Update this table daily
-Feed directly into Prompt 1
-Do NOT reinterpret after input
+### Speed
+Measures the strength of the move:
+
+- Slow  
+- Moderate  
+- Fast  
+
+---
+
+### ΔSpeed (Critical Signal)
+Captures change in momentum:
+
+- ↑ = strengthening  
+- → = stable  
+- ↓ = weakening  
+- ↓↓ = continuous weakening  
+
+→ Used to detect **transitions and potential turning points**
+
+---
+
+### Control
+Indicates structural dominance:
+
+- **Demand** = buyers in control  
+- **Supply** = sellers in control  
+- **Neutral** = no clear dominance  
+
+→ reflects **structural context (not current move)**
+
+---
+
+## Key Principles
+
+- **Direction** = what price is doing now  
+- **Control** = who is in control structurally  
+- **ΔSpeed** = most important signal (momentum change)  
+
+---
+
+## Example
