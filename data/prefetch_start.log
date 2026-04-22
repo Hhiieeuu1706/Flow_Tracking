@@ -1,0 +1,2951 @@
+[INFO] Prefetching MT5 H1 cache for last 30 day(s)...
+[flow_tracking] Prefetch start days=30 window=2026-03-11T00:35:00.689894 -> 2026-04-10T00:35:00.689894
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 30 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2026-03-11T00:35:00 -> 2026-03-11T03:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:35:00
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2883 in 3.8 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 30 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2026-03-11T00:35:00 -> 2026-03-11T03:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:35:00
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2884 in 2.6 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 30 day(s)...
+[flow_tracking]   US500.f fetch_missing 2026-03-11T00:35:00 -> 2026-03-11T03:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:35:00
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2882 in 2.6 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 30 day(s)...
+[flow_tracking] Prefetch start days=30 window=2026-03-11T00:39:11.960850 -> 2026-04-10T00:39:11.960850
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 30 day(s)...
+[flow_tracking]   DJ30.f cache=MISS fetch 2026-03-11T00:39:11.960850 -> 2026-04-10T00:39:11.960850
+[flow_tracking]   DJ30.f fetched_full=495
+[flow_tracking]   DJ30.f done in 2.9 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 30 day(s)...
+[flow_tracking]   USTEC.f cache=MISS fetch 2026-03-11T00:39:11.960850 -> 2026-04-10T00:39:11.960850
+[flow_tracking]   USTEC.f fetched_full=495
+[flow_tracking]   USTEC.f done in 3.0 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 30 day(s)...
+[flow_tracking]   US500.f cache=MISS fetch 2026-03-11T00:39:11.960850 -> 2026-04-10T00:39:11.960850
+[flow_tracking]   US500.f fetched_full=495
+[flow_tracking]   US500.f done in 2.4 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 30 day(s)...
+[flow_tracking] Prefetch start days=30 window=2026-03-11T00:41:13.190271 -> 2026-04-10T00:41:13.190271
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 30 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2026-03-11T00:41:13 -> 2026-03-11T03:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:41:13
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=495 in 1.8 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 30 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2026-03-11T00:41:13 -> 2026-03-11T03:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:41:13
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=495 in 1.1 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 30 day(s)...
+[flow_tracking]   US500.f fetch_missing 2026-03-11T00:41:13 -> 2026-03-11T03:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:41:13
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=495 in 1.0 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 30 day(s)...
+[flow_tracking] Prefetch start days=30 window=2026-03-11T00:42:48.250693 -> 2026-04-10T00:42:48.250693
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 30 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2026-03-11T00:42:48 -> 2026-03-11T03:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:42:48
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=495 in 1.5 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 30 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2026-03-11T00:42:48 -> 2026-03-11T03:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:42:48
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=495 in 0.7 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 30 day(s)...
+[flow_tracking]   US500.f fetch_missing 2026-03-11T00:42:48 -> 2026-03-11T03:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:42:48
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=495 in 0.8 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 30 day(s)...
+[flow_tracking] Prefetch start days=30 window=2026-03-11T00:44:43.168141 -> 2026-04-10T00:44:43.168141
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 30 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2026-03-11T00:44:43 -> 2026-03-11T03:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:44:43
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=495 in 1.6 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 30 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2026-03-11T00:44:43 -> 2026-03-11T03:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:44:43
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=495 in 0.8 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 30 day(s)...
+[flow_tracking]   US500.f fetch_missing 2026-03-11T00:44:43 -> 2026-03-11T03:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:44:43
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=495 in 0.8 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 30 day(s)...
+[flow_tracking] Prefetch start days=30 window=2026-03-11T00:46:41.071246 -> 2026-04-10T00:46:41.071246
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 30 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2026-03-11T00:46:41 -> 2026-03-11T03:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:46:41
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=495 in 1.7 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 30 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2026-03-11T00:46:41 -> 2026-03-11T03:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:46:41
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=495 in 0.8 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 30 day(s)...
+[flow_tracking]   US500.f fetch_missing 2026-03-11T00:46:41 -> 2026-03-11T03:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:46:41
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=495 in 0.7 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 30 day(s)...
+[flow_tracking] Prefetch start days=30 window=2026-03-11T00:50:57.767385 -> 2026-04-10T00:50:57.767385
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 30 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2026-03-11T00:50:57 -> 2026-03-11T03:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:50:57
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=495 in 3165.0 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 30 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2026-03-11T00:50:57 -> 2026-03-11T03:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:50:57
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=495 in 0.7 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 30 day(s)...
+[flow_tracking]   US500.f fetch_missing 2026-03-11T00:50:57 -> 2026-03-11T03:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:50:57
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=495 in 0.7 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T00:51:51.620056 -> 2026-04-10T00:51:51.620056
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T00:51:51 -> 2026-03-11T03:00:00
+[flow_tracking]   DJ30.f fetched_partial=2394
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:51:51
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2881 in 3157.4 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T00:51:51 -> 2026-03-11T03:00:00
+[flow_tracking]   USTEC.f fetched_partial=2395
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:51:51
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2882 in 12.4 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T00:51:51 -> 2026-03-11T03:00:00
+[flow_tracking]   US500.f fetched_partial=2393
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:51:51
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2880 in 12.4 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T00:52:35.742049 -> 2026-04-10T00:52:35.742049
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T00:52:35 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:52:35
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2881 in 17.1 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T00:52:35 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:52:35
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2882 in 2.8 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T00:52:35 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:52:35
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2880 in 2.7 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T00:54:15.065683 -> 2026-04-10T00:54:15.065683
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T00:54:15 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:54:15
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2881 in 4.1 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T00:54:15 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:54:15
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2882 in 3.4 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T00:54:15 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:54:15
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2880 in 3.2 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T00:55:22.508391 -> 2026-04-10T00:55:22.508391
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T00:55:22 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:55:22
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2881 in 4.8 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T00:55:22 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:55:22
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2882 in 2.7 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T00:55:22 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:55:22
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2880 in 2.7 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T00:57:40.040954 -> 2026-04-10T00:57:40.040954
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T00:57:40 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:57:40
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2881 in 4.1 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T00:57:40 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:57:40
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2882 in 3.3 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T00:57:40 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T00:57:40
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2880 in 3.4 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T01:00:01.492592 -> 2026-04-10T01:00:01.492592
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T01:00:01 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T01:00:01
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2882 in 3.5 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T01:00:01 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T01:00:01
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2883 in 3.3 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T01:00:01 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T22:00:00 -> 2026-04-10T01:00:01
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2881 in 3.1 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T01:01:41.727018 -> 2026-04-10T01:01:41.727018
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T01:01:41 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:01:41
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2882 in 3.5 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T01:01:41 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:01:41
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2883 in 2.7 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T01:01:41 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:01:41
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2881 in 2.6 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T01:04:13.639300 -> 2026-04-10T01:04:13.639300
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T01:04:13 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:04:13
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2882 in 3.6 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T01:04:13 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:04:13
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2883 in 3.0 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T01:04:13 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:04:13
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2881 in 2.8 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T01:08:29.389637 -> 2026-04-10T01:08:29.389637
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T01:08:29 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=8
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:08:29
+[flow_tracking]   DJ30.f fetched_partial=5
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2882 in 3.5 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T01:08:29 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=8
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:08:29
+[flow_tracking]   USTEC.f fetched_partial=5
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2883 in 2.8 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T01:08:29 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=8
+[flow_tracking]   US500.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:08:29
+[flow_tracking]   US500.f fetched_partial=5
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2881 in 2.8 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T01:10:22.174190 -> 2026-04-10T01:10:22.174190
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T01:10:22 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=23
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:10:22
+[flow_tracking]   DJ30.f fetched_partial=20
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2885 in 4.2 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T01:10:22 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=23
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:10:22
+[flow_tracking]   USTEC.f fetched_partial=20
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2886 in 4.4 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T01:10:22 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=23
+[flow_tracking]   US500.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:10:22
+[flow_tracking]   US500.f fetched_partial=20
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2884 in 4.9 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T01:15:53.166867 -> 2026-04-10T01:15:53.166867
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T01:15:53 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:15:53
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2885 in 4.1 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T01:15:53 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:15:53
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2886 in 3.4 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T01:15:53 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:15:53
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2884 in 3.4 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T01:19:35.434103 -> 2026-04-10T01:19:35.434103
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T01:19:35 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:19:35
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2885 in 5.2 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T01:19:35 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:19:35
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2886 in 3.3 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T01:19:35 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-09T23:00:00 -> 2026-04-10T01:19:35
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2884 in 3.0 ms
+[flow_tracking] Cache updated.
+
+[INFO] fetch_flow_mt5 finished with exit=0.
+Press any key to close...
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T07:24:58.737167 -> 2026-04-10T07:24:58.737167
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T07:24:58 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-10T02:00:00 -> 2026-04-10T07:24:58
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2890 in 21.4 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T07:24:58 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-10T02:00:00 -> 2026-04-10T07:24:58
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2891 in 5.1 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T07:24:58 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-10T02:00:00 -> 2026-04-10T07:24:58
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2889 in 5.2 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T09:30:41.023522 -> 2026-04-10T09:30:41.023522
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T09:30:41 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-10T07:00:00 -> 2026-04-10T09:30:41
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2892 in 20.2 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T09:30:41 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-10T07:00:00 -> 2026-04-10T09:30:41
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2893 in 5.8 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T09:30:41 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-10T07:00:00 -> 2026-04-10T09:30:41
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2891 in 5.4 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T11:50:08.691984 -> 2026-04-10T11:50:08.691984
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T11:50:08 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-10T09:00:00 -> 2026-04-10T11:50:08
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2894 in 6.3 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T11:50:08 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-10T09:00:00 -> 2026-04-10T11:50:08
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2895 in 3.7 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T11:50:08 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-10T09:00:00 -> 2026-04-10T11:50:08
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2893 in 3.6 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T11:56:39.694899 -> 2026-04-10T11:56:39.694899
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T11:56:39 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-10T09:00:00 -> 2026-04-10T11:56:39
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2894 in 4.0 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T11:56:39 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-10T09:00:00 -> 2026-04-10T11:56:39
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2895 in 3.1 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T11:56:39 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-10T09:00:00 -> 2026-04-10T11:56:39
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2893 in 3.0 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-12T21:45:24.857931 -> 2026-04-10T21:45:24.857931
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-12T21:45:24 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=34
+[flow_tracking]   DJ30.f fetch_missing 2026-04-10T15:00:00 -> 2026-04-10T21:45:24
+[flow_tracking]   DJ30.f fetched_partial=31
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2901 in 3244.1 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-12T21:45:24 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-10T15:00:00 -> 2026-04-10T21:45:24
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2905 in 15.0 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-12T21:45:24 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-10T15:00:00 -> 2026-04-10T21:45:24
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2903 in 14.8 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-13T12:05:58.996097 -> 2026-04-11T12:05:58.996097
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-13T12:05:58 -> 2025-10-13T15:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-10T22:00:00 -> 2026-04-11T12:05:58
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 21.0 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-13T12:05:58 -> 2025-10-13T15:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-10T22:00:00 -> 2026-04-11T12:05:58
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 4.6 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-13T12:05:58 -> 2025-10-13T15:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-10T22:00:00 -> 2026-04-11T12:05:58
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 4.8 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-13T15:21:49.712041 -> 2026-04-11T15:21:49.712041
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-13T15:21:49 -> 2025-10-13T18:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-11T15:21:49
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 11.3 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-13T15:21:49 -> 2025-10-13T18:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-11T15:21:49
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 3.5 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-13T15:21:49 -> 2025-10-13T18:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-11T15:21:49
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 3.7 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-14T00:28:17.582836 -> 2026-04-12T00:28:17.582836
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-14T00:28:17 -> 2025-10-14T03:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T00:28:17
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 5.0 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-14T00:28:17 -> 2025-10-14T03:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T00:28:17
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 3.4 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-14T00:28:17 -> 2025-10-14T03:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T00:28:17
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 3.3 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-14T00:30:27.297976 -> 2026-04-12T00:30:27.297976
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-14T00:30:27 -> 2025-10-14T03:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T00:30:27
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 5.1 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-14T00:30:27 -> 2025-10-14T03:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T00:30:27
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 3.4 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-14T00:30:27 -> 2025-10-14T03:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T00:30:27
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 3.3 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-14T00:32:28.707512 -> 2026-04-12T00:32:28.707512
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-14T00:32:28 -> 2025-10-14T03:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T00:32:28
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 4.0 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-14T00:32:28 -> 2025-10-14T03:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T00:32:28
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 3.1 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-14T00:32:28 -> 2025-10-14T03:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T00:32:28
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 3.2 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-14T07:34:02.252222 -> 2026-04-12T07:34:02.252222
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-14T07:34:02 -> 2025-10-14T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T07:34:02
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 11.2 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-14T07:34:02 -> 2025-10-14T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T07:34:02
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 5.8 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-14T07:34:02 -> 2025-10-14T10:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T07:34:02
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 4.5 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-14T20:06:29.110138 -> 2026-04-12T20:06:29.110138
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-14T20:06:29 -> 2025-10-14T23:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T20:06:29
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 19.7 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-14T20:06:29 -> 2025-10-14T23:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T20:06:29
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 6.2 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-14T20:06:29 -> 2025-10-14T23:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T20:06:29
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 6.3 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-14T20:20:42.281865 -> 2026-04-12T20:20:42.281865
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-14T20:20:42 -> 2025-10-14T23:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T20:20:42
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 4.0 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-14T20:20:42 -> 2025-10-14T23:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T20:20:42
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 3.0 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-14T20:20:42 -> 2025-10-14T23:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T20:20:42
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 2.9 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-14T22:16:51.997173 -> 2026-04-12T22:16:51.997173
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-14T22:16:51 -> 2025-10-15T01:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T22:16:51
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 4.7 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-14T22:16:51 -> 2025-10-15T01:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T22:16:51
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 3.2 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-14T22:16:51 -> 2025-10-15T01:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T22:16:51
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 5.2 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-14T22:22:29.328745 -> 2026-04-12T22:22:29.328745
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-14T22:22:29 -> 2025-10-15T01:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T22:22:29
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 4.1 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-14T22:22:29 -> 2025-10-15T01:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T22:22:29
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 3.3 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-14T22:22:29 -> 2025-10-15T01:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T22:22:29
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 3.5 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-14T22:25:18.858694 -> 2026-04-12T22:25:18.858694
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-14T22:25:18 -> 2025-10-15T01:00:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T22:25:18
+[flow_tracking]   DJ30.f fetched_partial=30
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2910 in 4.1 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-14T22:25:18 -> 2025-10-15T01:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T22:25:18
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2911 in 3.4 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-14T22:25:18 -> 2025-10-15T01:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-12T22:25:18
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2909 in 3.4 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-15T06:52:26.339717 -> 2026-04-13T06:52:26.339717
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-15T06:52:26 -> 2025-10-15T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=35
+[flow_tracking]   DJ30.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-13T06:52:26
+[flow_tracking]   DJ30.f fetched_partial=32
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2912 in 16.1 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-15T06:52:26 -> 2025-10-15T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=35
+[flow_tracking]   USTEC.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-13T06:52:26
+[flow_tracking]   USTEC.f fetched_partial=32
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2913 in 6.1 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-15T06:52:26 -> 2025-10-15T10:00:00
+[flow_tracking]   US500.f fetched_partial=35
+[flow_tracking]   US500.f fetch_missing 2026-04-11T04:00:00 -> 2026-04-13T06:52:26
+[flow_tracking]   US500.f fetched_partial=32
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2911 in 5.8 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-15T10:56:38.241891 -> 2026-04-13T10:56:38.241891
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-15T10:56:38 -> 2025-10-15T13:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-13T07:00:00 -> 2026-04-13T10:56:38
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2916 in 22.2 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-15T10:56:38 -> 2025-10-15T13:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-13T07:00:00 -> 2026-04-13T10:56:38
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2917 in 6.2 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-15T10:56:38 -> 2025-10-15T13:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-13T07:00:00 -> 2026-04-13T10:56:38
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2915 in 5.6 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-15T13:32:28.284096 -> 2026-04-13T13:32:28.284096
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-15T13:32:28 -> 2025-10-15T16:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-13T11:00:00 -> 2026-04-13T13:32:28
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2919 in 13.3 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-15T13:32:28 -> 2025-10-15T16:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-13T11:00:00 -> 2026-04-13T13:32:28
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2920 in 5.3 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-15T13:32:28 -> 2025-10-15T16:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-13T11:00:00 -> 2026-04-13T13:32:28
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2918 in 4.4 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-15T18:56:21.806304 -> 2026-04-13T18:56:21.806304
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-15T18:56:21 -> 2025-10-15T21:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-13T14:00:00 -> 2026-04-13T18:56:21
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2924 in 16.7 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-15T18:56:21 -> 2025-10-15T21:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-13T14:00:00 -> 2026-04-13T18:56:21
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2925 in 4.5 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-15T18:56:21 -> 2025-10-15T21:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-13T14:00:00 -> 2026-04-13T18:56:21
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2923 in 3.4 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-15T19:52:26.627290 -> 2026-04-13T19:52:26.627290
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-15T19:52:26 -> 2025-10-15T22:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-13T17:00:00 -> 2026-04-13T19:52:26
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2925 in 15.8 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-15T19:52:26 -> 2025-10-15T22:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-13T17:00:00 -> 2026-04-13T19:52:26
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2926 in 3.0 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-15T19:52:26 -> 2025-10-15T22:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-13T17:00:00 -> 2026-04-13T19:52:26
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2924 in 3.0 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-15T21:41:18.931040 -> 2026-04-13T21:41:18.931040
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-15T21:41:18 -> 2025-10-16T00:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-13T19:00:00 -> 2026-04-13T21:41:18
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2927 in 16.9 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-15T21:41:18 -> 2025-10-16T00:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-13T19:00:00 -> 2026-04-13T21:41:18
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2928 in 6.9 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-15T21:41:18 -> 2025-10-16T00:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-13T19:00:00 -> 2026-04-13T21:41:18
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2926 in 6.4 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-15T22:27:37.332846 -> 2026-04-13T22:27:37.332846
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-15T22:27:37 -> 2025-10-16T01:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-13T20:00:00 -> 2026-04-13T22:27:37
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2928 in 7.6 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-15T22:27:37 -> 2025-10-16T01:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-13T20:00:00 -> 2026-04-13T22:27:37
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2929 in 3.4 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-15T22:27:37 -> 2025-10-16T01:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-13T20:00:00 -> 2026-04-13T22:27:37
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2927 in 3.4 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 180 day(s)...
+[flow_tracking] Prefetch start days=180 window=2025-10-15T22:44:57.441344 -> 2026-04-13T22:44:57.441344
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 180 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-10-15T22:44:57 -> 2025-10-16T01:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-13T20:00:00 -> 2026-04-13T22:44:57
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=2928 in 4.7 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 180 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-10-15T22:44:57 -> 2025-10-16T01:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-13T20:00:00 -> 2026-04-13T22:44:57
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=2929 in 3.3 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 180 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-10-15T22:44:57 -> 2025-10-16T01:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-13T20:00:00 -> 2026-04-13T22:44:57
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=2927 in 3.3 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-18T22:55:22.519249 -> 2026-04-13T22:55:22.519249
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-18T22:55:22 -> 2025-10-13T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=2862
+[flow_tracking]   DJ30.f fetch_missing 2026-04-13T20:00:00 -> 2026-04-13T22:55:22
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5754 in 18.6 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-18T22:55:22 -> 2025-10-13T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=2863
+[flow_tracking]   USTEC.f fetch_missing 2026-04-13T20:00:00 -> 2026-04-13T22:55:22
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5756 in 17.3 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-18T22:55:22 -> 2025-10-13T10:00:00
+[flow_tracking]   US500.f fetched_partial=2864
+[flow_tracking]   US500.f fetch_missing 2026-04-13T20:00:00 -> 2026-04-13T22:55:22
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5755 in 16.6 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-19T07:22:54.866995 -> 2026-04-14T07:22:54.866995
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-19T07:22:54 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T00:00:00 -> 2026-04-14T07:22:54
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5762 in 25.9 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-19T07:22:54 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T00:00:00 -> 2026-04-14T07:22:54
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5764 in 11.9 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-19T07:22:54 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-14T00:00:00 -> 2026-04-14T07:22:54
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5763 in 11.6 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-19T09:46:50.686049 -> 2026-04-14T09:46:50.686049
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-19T09:46:50 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T07:00:00 -> 2026-04-14T09:46:50
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5764 in 22.8 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-19T09:46:50 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T07:00:00 -> 2026-04-14T09:46:50
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5766 in 9.0 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-19T09:46:50 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-14T07:00:00 -> 2026-04-14T09:46:50
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5765 in 10.6 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-19T13:14:31.585350 -> 2026-04-14T13:14:31.585350
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-19T13:14:31 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T10:00:00 -> 2026-04-14T13:14:31
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5768 in 14.7 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-19T13:14:31 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T10:00:00 -> 2026-04-14T13:14:31
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5770 in 8.3 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-19T13:14:31 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-14T10:00:00 -> 2026-04-14T13:14:31
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5769 in 8.1 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-19T15:40:00.838424 -> 2026-04-14T15:40:00.838424
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-19T15:40:00 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T13:00:00 -> 2026-04-14T15:40:00
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5770 in 23.6 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-19T15:40:00 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=34
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T13:00:00 -> 2026-04-14T15:40:00
+[flow_tracking]   USTEC.f fetched_partial=31
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5770 in 30.0 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-19T15:40:00 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=34
+[flow_tracking]   US500.f fetch_missing 2026-04-14T13:00:00 -> 2026-04-14T15:40:00
+[flow_tracking]   US500.f fetched_partial=31
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5769 in 46.1 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-19T18:28:17.183012 -> 2026-04-14T18:28:17.183012
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-19T18:28:17 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T16:00:00 -> 2026-04-14T18:28:17
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5773 in 28.4 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-19T18:28:17 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=34
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T16:00:00 -> 2026-04-14T18:28:17
+[flow_tracking]   USTEC.f fetched_partial=31
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5773 in 31.6 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-19T18:28:17 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-14T16:00:00 -> 2026-04-14T18:28:17
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5771 in 28.8 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-19T21:00:45.323998 -> 2026-04-14T21:00:45.323998
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-19T21:00:45 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:00:45
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5776 in 6.6 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-19T21:00:45 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:00:45
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5778 in 6.1 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-19T21:00:45 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:00:45
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5777 in 9.8 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-19T21:09:47.705515 -> 2026-04-14T21:09:47.705515
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-19T21:09:47 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:09:47
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5776 in 8.4 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-19T21:09:47 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:09:47
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5778 in 6.1 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-19T21:09:47 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:09:47
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5777 in 6.3 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-19T21:13:33.477061 -> 2026-04-14T21:13:33.477061
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-19T21:13:33 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:13:33
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5776 in 6.6 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-19T21:13:33 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:13:33
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5778 in 5.8 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-19T21:13:33 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:13:33
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5777 in 5.8 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-19T21:19:05.547287 -> 2026-04-14T21:19:05.547287
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-19T21:19:05 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:19:05
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5776 in 6.2 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-19T21:19:05 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:19:05
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5778 in 6.4 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-19T21:19:05 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:19:05
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5777 in 5.8 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-19T21:24:34.321331 -> 2026-04-14T21:24:34.321331
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-19T21:24:34 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:24:34
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5776 in 6.5 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-19T21:24:34 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=36
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:24:34
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5778 in 6.9 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-19T21:24:34 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=36
+[flow_tracking]   US500.f fetch_missing 2026-04-14T19:00:00 -> 2026-04-14T21:24:34
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5777 in 5.9 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T07:58:14.892274 -> 2026-04-15T07:58:14.892274
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-20T07:58:14 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-14T22:00:00 -> 2026-04-15T07:58:14
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5785 in 736.6 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-20T07:58:14 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-14T22:00:00 -> 2026-04-15T07:58:14
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5778 in 35.8 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-20T07:58:14 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-14T22:00:00 -> 2026-04-15T07:58:14
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5777 in 29.2 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T12:38:14.293332 -> 2026-04-15T12:38:14.293332
+[flow_tracking] [1/3] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-20T12:38:14 -> 2025-04-21T10:00:00
+[flow_tracking]   DJ30.f fetched_partial=36
+[flow_tracking]   DJ30.f fetch_missing 2026-04-15T08:00:00 -> 2026-04-15T12:38:14
+[flow_tracking]   DJ30.f fetched_partial=33
+[flow_tracking]   DJ30.f done missing_ranges=2 total_cached=5790 in 3622.9 ms
+[flow_tracking] [2/3] Ensuring cache USTEC.f H1 for last 360 day(s)...
+[flow_tracking]   USTEC.f fetch_missing 2025-04-20T12:38:14 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC.f fetched_partial=33
+[flow_tracking]   USTEC.f fetch_missing 2026-04-15T08:00:00 -> 2026-04-15T12:38:14
+[flow_tracking]   USTEC.f fetched_partial=30
+[flow_tracking]   USTEC.f done missing_ranges=2 total_cached=5788 in 14.7 ms
+[flow_tracking] [3/3] Ensuring cache US500.f H1 for last 360 day(s)...
+[flow_tracking]   US500.f fetch_missing 2025-04-20T12:38:14 -> 2025-04-21T10:00:00
+[flow_tracking]   US500.f fetched_partial=33
+[flow_tracking]   US500.f fetch_missing 2026-04-15T08:00:00 -> 2026-04-15T12:38:14
+[flow_tracking]   US500.f fetched_partial=30
+[flow_tracking]   US500.f done missing_ranges=2 total_cached=5787 in 15.4 ms
+[flow_tracking] Cache updated.
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T12:43:28.485244 -> 2026-04-15T12:43:28.485244
+[flow_tracking] [1/8] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 cache=MISS fetch 2025-04-20T12:43:28.485244 -> 2026-04-15T12:43:28.485244
+[flow_tracking]   US30 fetched_full=3348
+[flow_tracking]   US30 done in 3562.4 ms
+[flow_tracking] [2/8] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC cache=MISS fetch 2025-04-20T12:43:28.485244 -> 2026-04-15T12:43:28.485244
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: USTEC
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T12:47:38.988423 -> 2026-04-15T12:47:38.988423
+[flow_tracking] [1/8] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 cache=MISS fetch 2025-04-20T12:47:38.988423 -> 2026-04-15T12:47:38.988423
+[flow_tracking]   US30 fetched_full=5820
+[flow_tracking]   US30 done in 3727.0 ms
+[flow_tracking] [2/8] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC cache=MISS fetch 2025-04-20T12:47:38.988423 -> 2026-04-15T12:47:38.988423
+[flow_tracking]   USTEC fetched_full=5822
+[flow_tracking]   USTEC done in 46.8 ms
+[flow_tracking] [3/8] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 cache=MISS fetch 2025-04-20T12:47:38.988423 -> 2026-04-15T12:47:38.988423
+[flow_tracking]   US500 fetched_full=5824
+[flow_tracking]   US500 done in 312.9 ms
+[flow_tracking] [4/8] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T12:47:38.988423 -> 2026-04-15T12:47:38.988423
+[flow_tracking]   XAUUSD fetched_full=5829
+[flow_tracking]   XAUUSD done in 731.5 ms
+[flow_tracking] [5/8] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T12:47:38.988423 -> 2026-04-15T12:47:38.988423
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 1220.4 ms
+[flow_tracking] [6/8] Ensuring cache DJ30.f H1 for last 360 day(s)...
+[flow_tracking]   DJ30.f fetch_missing 2025-04-20T12:47:38 -> 2025-04-21T10:00:00
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 55, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, a, b)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DJ30.f
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T12:57:33.762742 -> 2026-04-15T12:57:33.762742
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T12:57:33 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T10:00:00 -> 2026-04-15T12:57:33
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5820 in 6.6 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T12:57:33 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T10:00:00 -> 2026-04-15T12:57:33
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5822 in 5.8 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T12:57:33 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T10:00:00 -> 2026-04-15T12:57:33
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5824 in 6.0 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T12:57:33.762742 -> 2026-04-15T12:57:33.762742
+[flow_tracking]   XAUUSD fetched_full=5829
+[flow_tracking]   XAUUSD done in 25.9 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T12:57:33.762742 -> 2026-04-15T12:57:33.762742
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 41.5 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T12:57:33.762742 -> 2026-04-15T12:57:33.762742
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:01:51.760325 -> 2026-04-15T13:01:51.760325
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:01:51 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:01:51
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 6.1 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:01:51 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:01:51
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 5.7 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:01:51 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:01:51
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 5.6 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:01:51.760325 -> 2026-04-15T13:01:51.760325
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 25.7 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T13:01:51.760325 -> 2026-04-15T13:01:51.760325
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 40.9 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:01:51.760325 -> 2026-04-15T13:01:51.760325
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:05:52.085939 -> 2026-04-15T13:05:52.085939
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:05:52 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:05:52
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 6.4 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:05:52 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:05:52
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 5.6 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:05:52 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:05:52
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 5.7 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:05:52.085939 -> 2026-04-15T13:05:52.085939
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 25.7 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T13:05:52.085939 -> 2026-04-15T13:05:52.085939
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 40.4 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:05:52.085939 -> 2026-04-15T13:05:52.085939
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:07:24.094001 -> 2026-04-15T13:07:24.094001
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:07:24 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:07:24
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 6.5 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:07:24 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:07:24
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 5.7 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:07:24 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:07:24
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 5.8 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:07:24.094001 -> 2026-04-15T13:07:24.094001
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 26.1 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T13:07:24.094001 -> 2026-04-15T13:07:24.094001
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 40.6 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:07:24.094001 -> 2026-04-15T13:07:24.094001
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:10:18.198427 -> 2026-04-15T13:10:18.198427
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:10:18 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:10:18
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 6.3 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:10:18 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:10:18
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 5.9 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:10:18 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:10:18
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 5.5 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:10:18.198427 -> 2026-04-15T13:10:18.198427
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 24.9 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T13:10:18.198427 -> 2026-04-15T13:10:18.198427
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 39.2 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:10:18.198427 -> 2026-04-15T13:10:18.198427
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:10:47.844180 -> 2026-04-15T13:10:47.844180
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:10:47 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:10:47
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 6.5 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:10:47 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:10:47
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 6.2 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:10:47 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:10:47
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 5.6 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:10:47.844180 -> 2026-04-15T13:10:47.844180
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 26.2 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T13:10:47.844180 -> 2026-04-15T13:10:47.844180
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 39.8 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:10:47.844180 -> 2026-04-15T13:10:47.844180
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:14:02.631965 -> 2026-04-15T13:14:02.631965
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:14:02 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:14:02
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 6.3 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:14:02 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:14:02
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 5.7 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:14:02 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:14:02
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 6.7 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:14:02.631965 -> 2026-04-15T13:14:02.631965
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 24.9 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T13:14:02.631965 -> 2026-04-15T13:14:02.631965
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 40.1 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:14:02.631965 -> 2026-04-15T13:14:02.631965
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:18:50.885433 -> 2026-04-15T13:18:50.885433
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:18:50 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:18:50
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 6.4 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:18:50 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:18:50
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 5.6 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:18:50 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:18:50
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 5.7 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:18:50.885433 -> 2026-04-15T13:18:50.885433
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 25.0 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T13:18:50.885433 -> 2026-04-15T13:18:50.885433
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 39.9 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:18:50.885433 -> 2026-04-15T13:18:50.885433
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:20:22.394086 -> 2026-04-15T13:20:22.394086
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:20:22 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:20:22
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 6.2 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:20:22 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:20:22
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 5.7 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:20:22 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:20:22
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 5.9 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:20:22.394086 -> 2026-04-15T13:20:22.394086
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 25.3 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T13:20:22.394086 -> 2026-04-15T13:20:22.394086
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 41.0 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:20:22.394086 -> 2026-04-15T13:20:22.394086
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:31:35.752655 -> 2026-04-15T13:31:35.752655
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:31:35 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:31:35
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 6.4 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:31:35 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:31:35
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 6.0 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:31:35 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:31:35
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 5.5 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:31:35.752655 -> 2026-04-15T13:31:35.752655
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 25.1 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD cache=MISS fetch 2025-04-20T13:31:35.752655 -> 2026-04-15T13:31:35.752655
+[flow_tracking]   BTCUSD fetched_full=8623
+[flow_tracking]   BTCUSD done in 39.3 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:31:35.752655 -> 2026-04-15T13:31:35.752655
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:49:35.562052 -> 2026-04-15T13:49:35.562052
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:49:35 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:49:35
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 8.3 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:49:35 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:49:35
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 5.6 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:49:35 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:49:35
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 6.0 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:49:35.562052 -> 2026-04-15T13:49:35.562052
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 31.8 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-20T13:49:35 -> 2025-04-21T16:00:00
+[flow_tracking]   BTCUSD fetched_partial=60
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:49:35
+[flow_tracking]   BTCUSD fetched_partial=33
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8623 in 8.3 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:49:35.562052 -> 2026-04-15T13:49:35.562052
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T13:52:47.002423 -> 2026-04-15T13:52:47.002423
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T13:52:47 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:52:47
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5821 in 6.4 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T13:52:47 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:52:47
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5823 in 6.3 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T13:52:47 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:52:47
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5825 in 6.2 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T13:52:47.002423 -> 2026-04-15T13:52:47.002423
+[flow_tracking]   XAUUSD fetched_full=5830
+[flow_tracking]   XAUUSD done in 30.6 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-20T13:52:47 -> 2025-04-21T16:00:00
+[flow_tracking]   BTCUSD fetched_partial=60
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T11:00:00 -> 2026-04-15T13:52:47
+[flow_tracking]   BTCUSD fetched_partial=33
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8623 in 9.6 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T13:52:47.002423 -> 2026-04-15T13:52:47.002423
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T14:45:38.581500 -> 2026-04-15T14:45:38.581500
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T14:45:38 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T12:00:00 -> 2026-04-15T14:45:38
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5822 in 6185.8 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T14:45:38 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T12:00:00 -> 2026-04-15T14:45:38
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5824 in 29.5 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T14:45:38 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T12:00:00 -> 2026-04-15T14:45:38
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5826 in 11.4 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T14:45:38.581500 -> 2026-04-15T14:45:38.581500
+[flow_tracking]   XAUUSD fetched_full=5831
+[flow_tracking]   XAUUSD done in 67.0 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-20T14:45:38 -> 2025-04-21T16:00:00
+[flow_tracking]   BTCUSD fetched_partial=59
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T12:00:00 -> 2026-04-15T14:45:38
+[flow_tracking]   BTCUSD fetched_partial=33
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8623 in 18.6 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T14:45:38.581500 -> 2026-04-15T14:45:38.581500
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T18:56:40.845907 -> 2026-04-15T18:56:40.845907
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T18:56:40 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-15T15:00:00 -> 2026-04-15T18:56:40
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5823 in 4278.3 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T18:56:40 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T15:00:00 -> 2026-04-15T18:56:40
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5828 in 31.5 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T18:56:40 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T15:00:00 -> 2026-04-15T18:56:40
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5830 in 13.6 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T18:56:40.845907 -> 2026-04-15T18:56:40.845907
+[flow_tracking]   XAUUSD fetched_full=5835
+[flow_tracking]   XAUUSD done in 31.3 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-20T18:56:40 -> 2025-04-21T16:00:00
+[flow_tracking]   BTCUSD fetched_partial=55
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-15T18:56:40
+[flow_tracking]   BTCUSD fetched_partial=33
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8623 in 8.9 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T18:56:40.845907 -> 2026-04-15T18:56:40.845907
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T19:19:06.154950 -> 2026-04-15T19:19:06.154950
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T19:19:06 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-15T17:00:00 -> 2026-04-15T19:19:06
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5827 in 7.6 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T19:19:06 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T17:00:00 -> 2026-04-15T19:19:06
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5829 in 6.2 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T19:19:06 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T17:00:00 -> 2026-04-15T19:19:06
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5831 in 7.7 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T19:19:06.154950 -> 2026-04-15T19:19:06.154950
+[flow_tracking]   XAUUSD fetched_full=5836
+[flow_tracking]   XAUUSD done in 34.6 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-20T19:19:06 -> 2025-04-21T16:00:00
+[flow_tracking]   BTCUSD fetched_partial=54
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-15T19:19:06
+[flow_tracking]   BTCUSD fetched_partial=33
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8623 in 8.4 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T19:19:06.154950 -> 2026-04-15T19:19:06.154950
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-20T21:42:45.912246 -> 2026-04-15T21:42:45.912246
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-20T21:42:45 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=35
+[flow_tracking]   US30 fetch_missing 2026-04-15T19:00:00 -> 2026-04-15T21:42:45
+[flow_tracking]   US30 fetched_partial=32
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5828 in 5045.2 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-20T21:42:45 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=35
+[flow_tracking]   USTEC fetch_missing 2026-04-15T19:00:00 -> 2026-04-15T21:42:45
+[flow_tracking]   USTEC fetched_partial=32
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5830 in 27.0 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-20T21:42:45 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=35
+[flow_tracking]   US500 fetch_missing 2026-04-15T19:00:00 -> 2026-04-15T21:42:45
+[flow_tracking]   US500 fetched_partial=32
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5832 in 10.6 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-20T21:42:45.912246 -> 2026-04-15T21:42:45.912246
+[flow_tracking]   XAUUSD fetched_full=5838
+[flow_tracking]   XAUUSD done in 60.1 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-20T21:42:45 -> 2025-04-21T16:00:00
+[flow_tracking]   BTCUSD fetched_partial=52
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-15T21:42:45
+[flow_tracking]   BTCUSD fetched_partial=33
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8623 in 17.6 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-20T21:42:45.912246 -> 2026-04-15T21:42:45.912246
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-21T07:21:18.764509 -> 2026-04-16T07:21:18.764509
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-21T07:21:18 -> 2025-04-21T10:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-15T22:00:00 -> 2026-04-16T07:21:18
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5832 in 4818.3 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-21T07:21:18 -> 2025-04-21T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-15T22:00:00 -> 2026-04-16T07:21:18
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5837 in 30.1 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-21T07:21:18 -> 2025-04-21T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-15T22:00:00 -> 2026-04-16T07:21:18
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5839 in 14.2 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-21T07:21:18.764509 -> 2026-04-16T07:21:18.764509
+[flow_tracking]   XAUUSD fetched_full=5844
+[flow_tracking]   XAUUSD done in 56.1 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-21T07:21:18 -> 2025-04-21T16:00:00
+[flow_tracking]   BTCUSD fetched_partial=42
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-16T07:21:18
+[flow_tracking]   BTCUSD fetched_partial=33
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8620 in 15.8 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-21T07:21:18.764509 -> 2026-04-16T07:21:18.764509
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-21T14:23:21.598928 -> 2026-04-16T14:23:21.598928
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-21T14:23:21 -> 2025-04-21T17:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-16T08:00:00 -> 2026-04-16T14:23:21
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5838 in 4500.7 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-21T14:23:21 -> 2025-04-21T17:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-16T08:00:00 -> 2026-04-16T14:23:21
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5847 in 29.1 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-21T14:23:21 -> 2025-04-21T17:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-16T08:00:00 -> 2026-04-16T14:23:21
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5849 in 6.3 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-21T14:23:21.598928 -> 2026-04-16T14:23:21.598928
+[flow_tracking]   XAUUSD fetched_full=5847
+[flow_tracking]   XAUUSD done in 29.8 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-21T14:23:21 -> 2025-04-21T17:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-16T14:23:21
+[flow_tracking]   BTCUSD fetched_partial=33
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8624 in 8.4 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-21T14:23:21.598928 -> 2026-04-16T14:23:21.598928
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-22T08:29:20.590998 -> 2026-04-17T08:29:20.590998
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-22T08:29:20 -> 2025-04-22T11:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-16T15:00:00 -> 2026-04-17T08:29:20
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5849 in 6752.3 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-22T08:29:20 -> 2025-04-22T11:00:00
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC fetch_missing 2026-04-16T15:00:00 -> 2026-04-17T08:29:20
+[flow_tracking]   USTEC fetched_partial=30
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5851 in 15.2 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-22T08:29:20 -> 2025-04-22T11:00:00
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 fetch_missing 2026-04-16T15:00:00 -> 2026-04-17T08:29:20
+[flow_tracking]   US500 fetched_partial=30
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5853 in 10.7 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-22T08:29:20.590998 -> 2026-04-17T08:29:20.590998
+[flow_tracking]   XAUUSD fetched_full=5834
+[flow_tracking]   XAUUSD done in 53.7 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-22T08:29:20 -> 2025-04-22T11:00:00
+[flow_tracking]   BTCUSD fetched_partial=33
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-17T08:29:20
+[flow_tracking]   BTCUSD fetched_partial=32
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8628 in 14.3 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-22T08:29:20.590998 -> 2026-04-17T08:29:20.590998
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-22T11:56:31.570443 -> 2026-04-17T11:56:31.570443
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-22T11:56:31 -> 2025-04-22T14:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-17T09:00:00 -> 2026-04-17T11:56:31
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5862 in 4299.2 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-22T11:56:31 -> 2025-04-22T14:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-17T09:00:00 -> 2026-04-17T11:56:31
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5867 in 45.6 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-22T11:56:31 -> 2025-04-22T14:00:00
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 fetch_missing 2026-04-17T09:00:00 -> 2026-04-17T11:56:31
+[flow_tracking]   US500 fetched_partial=30
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5866 in 11.5 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-22T11:56:31.570443 -> 2026-04-17T11:56:31.570443
+[flow_tracking]   XAUUSD fetched_full=5847
+[flow_tracking]   XAUUSD done in 53.8 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-22T11:56:31 -> 2025-04-22T14:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-17T11:56:31
+[flow_tracking]   BTCUSD fetched_partial=49
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8645 in 15.9 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-22T11:56:31.570443 -> 2026-04-17T11:56:31.570443
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-22T14:23:04.941524 -> 2026-04-17T14:23:04.941524
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-22T14:23:04 -> 2025-04-22T17:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-17T12:00:00 -> 2026-04-17T14:23:04
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5868 in 5212.2 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-22T14:23:04 -> 2025-04-22T17:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-17T12:00:00 -> 2026-04-17T14:23:04
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5870 in 29.3 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-22T14:23:04 -> 2025-04-22T17:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-17T12:00:00 -> 2026-04-17T14:23:04
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5872 in 11.7 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-22T14:23:04.941524 -> 2026-04-17T14:23:04.941524
+[flow_tracking]   XAUUSD fetched_full=5847
+[flow_tracking]   XAUUSD done in 53.5 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-22T14:23:04 -> 2025-04-22T17:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-17T14:23:04
+[flow_tracking]   BTCUSD fetched_partial=52
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8648 in 12.6 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-22T14:23:04.941524 -> 2026-04-17T14:23:04.941524
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-22T19:05:12.917334 -> 2026-04-17T19:05:12.917334
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-22T19:05:12 -> 2025-04-22T22:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-17T15:00:00 -> 2026-04-17T19:05:12
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5870 in 3730.6 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-22T19:05:12 -> 2025-04-22T22:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-17T15:00:00 -> 2026-04-17T19:05:12
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5875 in 30.5 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-22T19:05:12 -> 2025-04-22T22:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-17T15:00:00 -> 2026-04-17T19:05:12
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5877 in 12.8 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-22T19:05:12.917334 -> 2026-04-17T19:05:12.917334
+[flow_tracking]   XAUUSD fetched_full=5847
+[flow_tracking]   XAUUSD done in 61.2 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-22T19:05:12 -> 2025-04-22T22:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-17T19:05:12
+[flow_tracking]   BTCUSD fetched_partial=57
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8653 in 13.5 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-22T19:05:12.917334 -> 2026-04-17T19:05:12.917334
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-23T09:47:23.569566 -> 2026-04-18T09:47:23.569566
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-23T09:47:23 -> 2025-04-23T12:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-17T20:00:00 -> 2026-04-18T09:47:23
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5876 in 4627.9 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-23T09:47:23 -> 2025-04-23T12:00:00
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC fetch_missing 2026-04-17T20:00:00 -> 2026-04-18T09:47:23
+[flow_tracking]   USTEC fetched_partial=30
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5878 in 25.1 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-23T09:47:23 -> 2025-04-23T12:00:00
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 fetch_missing 2026-04-17T20:00:00 -> 2026-04-18T09:47:23
+[flow_tracking]   US500 fetched_partial=30
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5880 in 8.1 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-23T09:47:23.569566 -> 2026-04-18T09:47:23.569566
+[flow_tracking]   XAUUSD fetched_full=5842
+[flow_tracking]   XAUUSD done in 40.1 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-23T09:47:23 -> 2025-04-23T12:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-18T09:47:23
+[flow_tracking]   BTCUSD fetched_partial=71
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8667 in 27.7 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-23T09:47:23.569566 -> 2026-04-18T09:47:23.569566
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-23T14:03:44.130504 -> 2026-04-18T14:03:44.130504
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-23T14:03:44 -> 2025-04-23T17:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-18T04:00:00 -> 2026-04-18T14:03:44
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5881 in 3755.5 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-23T14:03:44 -> 2025-04-23T17:00:00
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC fetch_missing 2026-04-18T04:00:00 -> 2026-04-18T14:03:44
+[flow_tracking]   USTEC fetched_partial=30
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5883 in 25.2 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-23T14:03:44 -> 2025-04-23T17:00:00
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 fetch_missing 2026-04-18T04:00:00 -> 2026-04-18T14:03:44
+[flow_tracking]   US500 fetched_partial=30
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5885 in 11.6 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-23T14:03:44.130504 -> 2026-04-18T14:03:44.130504
+[flow_tracking]   XAUUSD fetched_full=5837
+[flow_tracking]   XAUUSD done in 57.6 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-23T14:03:44 -> 2025-04-23T17:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-18T14:03:44
+[flow_tracking]   BTCUSD fetched_partial=76
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8672 in 13.8 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-23T14:03:44.130504 -> 2026-04-18T14:03:44.130504
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-23T19:26:43.173428 -> 2026-04-18T19:26:43.173428
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-23T19:26:43 -> 2025-04-23T22:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-18T04:00:00 -> 2026-04-18T19:26:43
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5881 in 10255.7 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-23T19:26:43 -> 2025-04-23T22:00:00
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC fetch_missing 2026-04-18T04:00:00 -> 2026-04-18T19:26:43
+[flow_tracking]   USTEC fetched_partial=30
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5883 in 15.1 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-23T19:26:43 -> 2025-04-23T22:00:00
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 fetch_missing 2026-04-18T04:00:00 -> 2026-04-18T19:26:43
+[flow_tracking]   US500 fetched_partial=30
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5885 in 5.9 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-23T19:26:43.173428 -> 2026-04-18T19:26:43.173428
+[flow_tracking]   XAUUSD fetched_full=5832
+[flow_tracking]   XAUUSD done in 31.2 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-23T19:26:43 -> 2025-04-23T22:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-18T19:26:43
+[flow_tracking]   BTCUSD fetched_partial=81
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8677 in 8.6 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-23T19:26:43.173428 -> 2026-04-18T19:26:43.173428
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-24T06:41:20.075209 -> 2026-04-19T06:41:20.075209
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-24T06:41:20 -> 2025-04-24T10:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-18T04:00:00 -> 2026-04-19T06:41:20
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5881 in 5171.2 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-24T06:41:20 -> 2025-04-24T10:00:00
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC fetch_missing 2026-04-18T04:00:00 -> 2026-04-19T06:41:20
+[flow_tracking]   USTEC fetched_partial=30
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5883 in 14.1 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-24T06:41:20 -> 2025-04-24T10:00:00
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 fetch_missing 2026-04-18T04:00:00 -> 2026-04-19T06:41:20
+[flow_tracking]   US500 fetched_partial=30
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5885 in 5.9 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-24T06:41:20.075209 -> 2026-04-19T06:41:20.075209
+[flow_tracking]   XAUUSD fetched_full=5821
+[flow_tracking]   XAUUSD done in 30.9 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-24T06:41:20 -> 2025-04-24T09:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-19T06:41:20
+[flow_tracking]   BTCUSD fetched_partial=92
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8688 in 24.5 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-24T06:41:20.075209 -> 2026-04-19T06:41:20.075209
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-24T20:18:16.464285 -> 2026-04-19T20:18:16.464285
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-24T20:18:16 -> 2025-04-24T23:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-18T04:00:00 -> 2026-04-19T20:18:16
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5881 in 6319.9 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-24T20:18:16 -> 2025-04-24T23:00:00
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC fetch_missing 2026-04-18T04:00:00 -> 2026-04-19T20:18:16
+[flow_tracking]   USTEC fetched_partial=30
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5883 in 28.2 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-24T20:18:16 -> 2025-04-24T23:00:00
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 fetch_missing 2026-04-18T04:00:00 -> 2026-04-19T20:18:16
+[flow_tracking]   US500 fetched_partial=30
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5885 in 8.7 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-24T20:18:16.464285 -> 2026-04-19T20:18:16.464285
+[flow_tracking]   XAUUSD fetched_full=5808
+[flow_tracking]   XAUUSD done in 39.3 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-24T20:18:16 -> 2025-04-24T23:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-19T20:18:16
+[flow_tracking]   BTCUSD fetched_partial=106
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8702 in 13.1 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-24T20:18:16.464285 -> 2026-04-19T20:18:16.464285
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-25T06:51:30.698343 -> 2026-04-20T06:51:30.698343
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-25T06:51:30 -> 2025-04-25T10:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-18T04:00:00 -> 2026-04-20T06:51:30
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5881 in 4392.9 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-25T06:51:30 -> 2025-04-25T10:00:00
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC fetch_missing 2026-04-18T04:00:00 -> 2026-04-20T06:51:30
+[flow_tracking]   USTEC fetched_partial=32
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5885 in 27.5 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-25T06:51:30 -> 2025-04-25T10:00:00
+[flow_tracking]   US500 fetched_partial=35
+[flow_tracking]   US500 fetch_missing 2026-04-18T04:00:00 -> 2026-04-20T06:51:30
+[flow_tracking]   US500 fetched_partial=32
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5887 in 17.2 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-25T06:51:30.698343 -> 2026-04-20T06:51:30.698343
+[flow_tracking]   XAUUSD fetched_full=5800
+[flow_tracking]   XAUUSD done in 35.1 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-25T06:51:30 -> 2025-04-25T09:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-20T06:51:30
+[flow_tracking]   BTCUSD fetched_partial=116
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8712 in 27.1 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-25T06:51:30.698343 -> 2026-04-20T06:51:30.698343
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-25T14:52:53.861725 -> 2026-04-20T14:52:53.861725
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-25T14:52:53 -> 2025-04-25T17:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-20T07:00:00 -> 2026-04-20T14:52:53
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5891 in 4139.8 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-25T14:52:53 -> 2025-04-25T17:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-20T07:00:00 -> 2026-04-20T14:52:53
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5893 in 19.0 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-25T14:52:53 -> 2025-04-25T17:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-20T07:00:00 -> 2026-04-20T14:52:53
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5895 in 8.4 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-25T14:52:53.861725 -> 2026-04-20T14:52:53.861725
+[flow_tracking]   XAUUSD fetched_full=5801
+[flow_tracking]   XAUUSD done in 33.4 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-25T14:52:53 -> 2025-04-25T17:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-20T14:52:53
+[flow_tracking]   BTCUSD fetched_partial=124
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8720 in 11.6 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-25T14:52:53.861725 -> 2026-04-20T14:52:53.861725
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-25T21:29:56.265403 -> 2026-04-20T21:29:56.265403
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-25T21:29:56 -> 2025-04-26T00:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-20T15:00:00 -> 2026-04-20T21:29:56
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5893 in 5630.6 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-25T21:29:56 -> 2025-04-26T00:00:00
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC fetch_missing 2026-04-20T15:00:00 -> 2026-04-20T21:29:56
+[flow_tracking]   USTEC fetched_partial=30
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5895 in 27.2 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-25T21:29:56 -> 2025-04-26T00:00:00
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 fetch_missing 2026-04-20T15:00:00 -> 2026-04-20T21:29:56
+[flow_tracking]   US500 fetched_partial=30
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5897 in 11.1 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-25T21:29:56.265403 -> 2026-04-20T21:29:56.265403
+[flow_tracking]   XAUUSD fetched_full=5801
+[flow_tracking]   XAUUSD done in 104.0 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-25T21:29:56 -> 2025-04-26T00:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-20T21:29:56
+[flow_tracking]   BTCUSD fetched_partial=131
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8727 in 16.4 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-25T21:29:56.265403 -> 2026-04-20T21:29:56.265403
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-26T06:24:46.869678 -> 2026-04-21T06:24:46.869678
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-26T06:24:46 -> 2025-04-28T10:00:00
+[flow_tracking]   US30 fetched_partial=35
+[flow_tracking]   US30 fetch_missing 2026-04-20T22:00:00 -> 2026-04-21T06:24:46
+[flow_tracking]   US30 fetched_partial=32
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5906 in 4085.6 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-26T06:24:46 -> 2025-04-28T10:00:00
+[flow_tracking]   USTEC fetched_partial=35
+[flow_tracking]   USTEC fetch_missing 2026-04-20T22:00:00 -> 2026-04-21T06:24:46
+[flow_tracking]   USTEC fetched_partial=32
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5908 in 17.2 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-26T06:24:46 -> 2025-04-28T10:00:00
+[flow_tracking]   US500 fetched_partial=35
+[flow_tracking]   US500 fetch_missing 2026-04-20T22:00:00 -> 2026-04-21T06:24:46
+[flow_tracking]   US500 fetched_partial=32
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5910 in 16.2 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-26T06:24:46.869678 -> 2026-04-21T06:24:46.869678
+[flow_tracking]   XAUUSD fetched_full=5800
+[flow_tracking]   XAUUSD done in 42.3 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-26T06:24:46 -> 2025-04-26T09:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-21T06:24:46
+[flow_tracking]   BTCUSD fetched_partial=140
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8736 in 9.1 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-26T06:24:46.869678 -> 2026-04-21T06:24:46.869678
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-26T07:19:06.376385 -> 2026-04-21T07:19:06.376385
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-26T07:19:06 -> 2025-04-28T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-21T04:00:00 -> 2026-04-21T07:19:06
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5907 in 3755.1 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-26T07:19:06 -> 2025-04-28T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-21T04:00:00 -> 2026-04-21T07:19:06
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5909 in 23.8 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-26T07:19:06 -> 2025-04-28T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-21T04:00:00 -> 2026-04-21T07:19:06
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5911 in 12.1 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-26T07:19:06.376385 -> 2026-04-21T07:19:06.376385
+[flow_tracking]   XAUUSD fetched_full=5801
+[flow_tracking]   XAUUSD done in 62.2 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-26T07:19:06 -> 2025-04-26T10:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-21T07:19:06
+[flow_tracking]   BTCUSD fetched_partial=141
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8737 in 14.8 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-26T07:19:06.376385 -> 2026-04-21T07:19:06.376385
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-26T13:41:19.992068 -> 2026-04-21T13:41:19.992068
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-26T13:41:19 -> 2025-04-28T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-21T08:00:00 -> 2026-04-21T13:41:19
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5913 in 4609.7 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-26T13:41:19 -> 2025-04-28T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-21T08:00:00 -> 2026-04-21T13:41:19
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5915 in 28.5 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-26T13:41:19 -> 2025-04-28T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-21T08:00:00 -> 2026-04-21T13:41:19
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5917 in 8.7 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-26T13:41:19.992068 -> 2026-04-21T13:41:19.992068
+[flow_tracking]   XAUUSD fetched_full=5807
+[flow_tracking]   XAUUSD done in 57.3 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-26T13:41:19 -> 2025-04-26T16:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-21T13:41:19
+[flow_tracking]   BTCUSD fetched_partial=147
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8743 in 17.3 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-26T13:41:19.992068 -> 2026-04-21T13:41:19.992068
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-26T16:01:11.960356 -> 2026-04-21T16:01:11.960356
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-26T16:01:11 -> 2025-04-28T10:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-21T14:00:00 -> 2026-04-21T16:01:11
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5916 in 4014.9 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-26T16:01:11 -> 2025-04-28T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-21T14:00:00 -> 2026-04-21T16:01:11
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5918 in 18.1 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-26T16:01:11 -> 2025-04-28T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-21T14:00:00 -> 2026-04-21T16:01:11
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5920 in 5.7 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-26T16:01:11.960356 -> 2026-04-21T16:01:11.960356
+[flow_tracking]   XAUUSD fetched_full=5810
+[flow_tracking]   XAUUSD done in 34.8 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-26T16:01:11 -> 2025-04-26T19:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-21T16:01:11
+[flow_tracking]   BTCUSD fetched_partial=150
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8746 in 8.9 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-26T16:01:11.960356 -> 2026-04-21T16:01:11.960356
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-26T17:35:14.126752 -> 2026-04-21T17:35:14.126752
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-26T17:35:14 -> 2025-04-28T10:00:00
+[flow_tracking]   US30 fetched_partial=35
+[flow_tracking]   US30 fetch_missing 2026-04-21T15:00:00 -> 2026-04-21T17:35:14
+[flow_tracking]   US30 fetched_partial=32
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5916 in 4681.9 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-26T17:35:14 -> 2025-04-28T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-21T15:00:00 -> 2026-04-21T17:35:14
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5919 in 47.7 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-26T17:35:14 -> 2025-04-28T10:00:00
+[flow_tracking]   US500 fetched_partial=35
+[flow_tracking]   US500 fetch_missing 2026-04-21T15:00:00 -> 2026-04-21T17:35:14
+[flow_tracking]   US500 fetched_partial=32
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5920 in 12.1 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-26T17:35:14.126752 -> 2026-04-21T17:35:14.126752
+[flow_tracking]   XAUUSD fetched_full=5811
+[flow_tracking]   XAUUSD done in 57.7 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-26T17:35:14 -> 2025-04-26T20:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-21T17:35:14
+[flow_tracking]   BTCUSD fetched_partial=151
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8747 in 10.5 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-26T17:35:14.126752 -> 2026-04-21T17:35:14.126752
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-26T21:20:12.086249 -> 2026-04-21T21:20:12.086249
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-26T21:20:12 -> 2025-04-28T10:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-21T18:00:00 -> 2026-04-21T21:20:12
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5917 in 5694.4 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-26T21:20:12 -> 2025-04-28T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-21T18:00:00 -> 2026-04-21T21:20:12
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5923 in 21.8 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-26T21:20:12 -> 2025-04-28T10:00:00
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 fetch_missing 2026-04-21T18:00:00 -> 2026-04-21T21:20:12
+[flow_tracking]   US500 fetched_partial=30
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5921 in 6.2 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-26T21:20:12.086249 -> 2026-04-21T21:20:12.086249
+[flow_tracking]   XAUUSD fetched_full=5815
+[flow_tracking]   XAUUSD done in 32.7 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-26T21:20:12 -> 2025-04-27T00:00:00
+[flow_tracking]   BTCUSD fetched_partial=33
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-21T21:20:12
+[flow_tracking]   BTCUSD fetched_partial=150
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8746 in 9.8 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-26T21:20:12.086249 -> 2026-04-21T21:20:12.086249
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-27T05:48:38.032275 -> 2026-04-22T05:48:38.032275
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-27T05:48:38 -> 2025-04-28T10:00:00
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 fetch_missing 2026-04-21T22:00:00 -> 2026-04-22T05:48:38
+[flow_tracking]   US30 fetched_partial=30
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5922 in 4904.5 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-27T05:48:38 -> 2025-04-28T10:00:00
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC fetch_missing 2026-04-21T22:00:00 -> 2026-04-22T05:48:38
+[flow_tracking]   USTEC fetched_partial=31
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5925 in 45.4 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-27T05:48:38 -> 2025-04-28T10:00:00
+[flow_tracking]   US500 fetched_partial=34
+[flow_tracking]   US500 fetch_missing 2026-04-21T22:00:00 -> 2026-04-22T05:48:38
+[flow_tracking]   US500 fetched_partial=31
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5927 in 12.5 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-27T05:48:38.032275 -> 2026-04-22T05:48:38.032275
+[flow_tracking]   XAUUSD fetched_full=5822
+[flow_tracking]   XAUUSD done in 64.2 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-27T05:48:38 -> 2025-04-27T08:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-22T05:48:38
+[flow_tracking]   BTCUSD fetched_partial=163
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8759 in 34.5 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-27T05:48:38.032275 -> 2026-04-22T05:48:38.032275
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
+[INFO] Prefetching MT5 H1 cache for last 360 day(s)...
+[flow_tracking] Prefetch start days=360 window=2025-04-27T14:06:17.004455 -> 2026-04-22T14:06:17.004455
+[flow_tracking] [1/11] Ensuring cache US30 H1 for last 360 day(s)...
+[flow_tracking]   US30 fetch_missing 2025-04-27T14:06:17 -> 2025-04-28T10:00:00
+[flow_tracking]   US30 fetched_partial=36
+[flow_tracking]   US30 fetch_missing 2026-04-22T06:00:00 -> 2026-04-22T14:06:17
+[flow_tracking]   US30 fetched_partial=33
+[flow_tracking]   US30 done missing_ranges=2 total_cached=5937 in 5637.2 ms
+[flow_tracking] [2/11] Ensuring cache USTEC H1 for last 360 day(s)...
+[flow_tracking]   USTEC fetch_missing 2025-04-27T14:06:17 -> 2025-04-28T10:00:00
+[flow_tracking]   USTEC fetched_partial=36
+[flow_tracking]   USTEC fetch_missing 2026-04-22T06:00:00 -> 2026-04-22T14:06:17
+[flow_tracking]   USTEC fetched_partial=33
+[flow_tracking]   USTEC done missing_ranges=2 total_cached=5939 in 27.1 ms
+[flow_tracking] [3/11] Ensuring cache US500 H1 for last 360 day(s)...
+[flow_tracking]   US500 fetch_missing 2025-04-27T14:06:17 -> 2025-04-28T10:00:00
+[flow_tracking]   US500 fetched_partial=36
+[flow_tracking]   US500 fetch_missing 2026-04-22T06:00:00 -> 2026-04-22T14:06:17
+[flow_tracking]   US500 fetched_partial=33
+[flow_tracking]   US500 done missing_ranges=2 total_cached=5941 in 7.3 ms
+[flow_tracking] [4/11] Ensuring cache XAUUSD H1 for last 360 day(s)...
+[flow_tracking]   XAUUSD cache=MISS fetch 2025-04-27T14:06:17.004455 -> 2026-04-22T14:06:17.004455
+[flow_tracking]   XAUUSD fetched_full=5831
+[flow_tracking]   XAUUSD done in 40.5 ms
+[flow_tracking] [5/11] Ensuring cache BTCUSD H1 for last 360 day(s)...
+[flow_tracking]   BTCUSD fetch_missing 2025-04-27T14:06:17 -> 2025-04-27T17:00:00
+[flow_tracking]   BTCUSD fetched_partial=36
+[flow_tracking]   BTCUSD fetch_missing 2026-04-15T14:00:00 -> 2026-04-22T14:06:17
+[flow_tracking]   BTCUSD fetched_partial=172
+[flow_tracking]   BTCUSD done missing_ranges=2 total_cached=8768 in 9.3 ms
+[flow_tracking] [6/11] Ensuring cache DXY H1 for last 360 day(s)...
+[flow_tracking]   DXY cache=MISS fetch 2025-04-27T14:06:17.004455 -> 2026-04-22T14:06:17.004455
+Traceback (most recent call last):
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 88, in <module>
+    raise SystemExit(main())
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 80, in main
+    _fetch_partial_for_symbol(sym, start, end, cache)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\fetch_flow_mt5.py", line 34, in _fetch_partial_for_symbol
+    bars = fetch_h1_bars(symbol, start, end)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 172, in wrapper
+    return fn(*args, **kwargs)
+  File "E:\Trade folder\Trading_analyze\flow_tracking\backend\mt5_service.py", line 192, in fetch_h1_bars
+    raise Mt5Error(f"Failed to select symbol: {symbol}")
+mt5_service.Mt5Error: Failed to select symbol: DXY
+[ERROR] Prefetch failed (exit=1).
