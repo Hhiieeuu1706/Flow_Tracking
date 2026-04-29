@@ -1,89 +1,86 @@
-# Macro State Input – Structured Framework
+# Macro Flow Tracking - Deterministic Algorithm Framework
 
-## Overview
-This file tracks the daily state of core macro assets in a structured format.  
-It serves as the input layer for the system.
+## 1. Overview
+This system implements a fully automated, deterministic macro-pressure engine. It analyzes cross-asset data (USD, Rates, Oil, Volatility, Gold) to derive a single quantitative **Flow Strength** score for USTEC. 
 
-## Purpose
-- Capture current market behavior (not opinion)  
-- Standardize inputs across all modules (P1 → P3.3)  
-- Enable consistent and repeatable analysis  
+The core philosophy is based on **Pressure Imbalance**: Market flow is determined by the interaction of key macro drivers and their internal state transitions, not manual opinion.
 
 ---
 
-## Core Drivers
-The system focuses on key macro assets:
+## 2. Core Metrics
+Every asset is analyzed daily using three quantitative dimensions:
 
-- **DXY (USD)** → global liquidity  
-- **US10Y (Rates)** → tightening vs easing  
-- **VIX (Volatility)** → risk conditions  
-- **Gold (GC)** → defensive behavior  
-- **Oil (Energy)** → inflation pressure  
+### 2.1 Direction
+Calculated based on daily close vs open.
+- **↑ (UP)**: Positive daily candle.
+- **↓ (DOWN)**: Negative daily candle.
 
----
+### 2.2 Speed
+Determined by the daily range quantile relative to the last 5 days.
+- **F (FAST)**: Range in top 30% (> p70).
+- **M (MODERATE)**: Range in middle 40%.
+- **S (SLOW)**: Range in bottom 30% (< p30).
 
-## Input Structure
-
-Each asset is described using four components:
-
-- **Direction**
-- **Speed**
-- **ΔSpeed (critical)**
-- **Control**
-
----
-
-## Definitions
-
-### Direction
-Represents the current price movement:
-
-- ↑ = rising  
-- ↓ = falling  
-- → = sideways  
-
-→ reflects **current move only**
+### 2.3 ΔSpeed (The Lead Signal)
+The ratio of the current range to the 5-day median range.
+- **↑ (Acceleration)**: Ratio > 1.2.
+- **→ (Stable)**: Ratio 0.8 to 1.2.
+- **↓ (Weakening)**: Ratio 0.6 to 0.8.
+- **↓↓ (Exhaustion)**: Ratio < 0.6.
 
 ---
 
-### Speed
-Measures the strength of the move:
+## 3. The Engine Pipeline
 
-- Slow  
-- Moderate  
-- Fast  
+### 3.1 State Engine (Transitions)
+Classifies the internal state of each factor:
+- **Build**: Direction + Acceleration.
+- **Stable**: ΔSpeed is Stable.
+- **Decay**: Direction persists but Speed is Weakening.
+- **Exhaustion**: ΔSpeed is Exhausted.
+
+### 3.2 Pressure Engine (Market Health)
+Detects systemic conditions across core drivers (DXY, Rates, Oil):
+- **Absorption**: True if ≥ 2 conditions are met:
+    1. Conflict between USD and Rates direction.
+    2. ΔSpeed is Weakening/Exhausted for ≥ 2 core drivers.
+    3. Volatility is not expanding (ΔSpeed ≠ ↑).
+- **Fragility**: Systemic deterioration in ΔSpeed across assets.
+- **Deleveraging**: High-stress condition where USD ↑ + Vol ↑.
+
+### 3.3 Flow Engine (The Final Score)
+The engine calculates a score from -10 to +10 using the following deterministic steps:
+
+1. **Base Impact Mapping**:
+   - **USD / Oil**: $\uparrow \rightarrow -1$ (Tightening), $\downarrow \rightarrow +1$ (Easing).
+   - **UST10Y (Bond Price)**: $\uparrow \rightarrow +1$ (Rates DOWN/Easing), $\downarrow \rightarrow -1$ (Rates UP/Tightening).
+   - **Gold**: $\uparrow \rightarrow +0.5$, $\downarrow \rightarrow -0.5$.
+   - **Special Rule (Rates Latent)**: If UST10Y Price $\uparrow$ but ΔSpeed is →, impact is capped at **0.5**.
+
+2. **Adjusted Impact**: 
+   - `ImpactAdj = BaseImpact * ΔSpeedModifier`
+   - Modifiers: Acceleration (1.2), Stable (1.0), Weakening (0.7), Exhaustion (0.5).
+
+3. **Core Cluster Rule**:
+   - If USD, Rates, and Oil all have the **same impact sign** (all positive or all negative), the engine applies the **Cluster Rule**: instead of summing, it takes the **Single Maximum Magnitude** of the three to represent the cluster pressure.
+   - If they have conflicting signs, they are summed (cancelling each other out).
+
+4. **Normalization**:
+   - `Normalized = (TotalRaw / 6) * 10`
+   - Result is clamped and rounded to a 2-decimal scale.
+
+5. **Systemic Dampening**:
+   - **Stability Filter**: Scores between -0.5 and +0.5 are zeroed out to filter noise.
+   - **Exhaustion Dampening**: If ANY core driver hits ΔSpeed ↓↓, the final score is dampened by **30% (x 0.7)**.
 
 ---
 
-### ΔSpeed (Critical Signal)
-Captures change in momentum:
+## 4. Automation & Sync
+- **Automatic Calculation**: The `MacroEngine` calculates these values dynamically from H1 MT5 data.
+- **History Sync**: Every time the system starts via `START.bat`, it runs `sync_macro_history.py`.
+- **USTEC Integration**: This script calculates the last 360 days of macro scores and automatically populates the `field strength` for **USTEC** in `flow_strength_history.json`.
 
-- ↑ = strengthening  
-- → = stable  
-- ↓ = weakening  
-- ↓↓ = continuous weakening  
-
-→ Used to detect **transitions and potential turning points**
-
----
-
-### Control
-Indicates structural dominance:
-
-- **Demand** = buyers in control  
-- **Supply** = sellers in control  
-- **Neutral** = no clear dominance  
-
-→ reflects **structural context (not current move)**
-
----
-
-## Key Principles
-
-- **Direction** = what price is doing now  
-- **Control** = who is in control structurally  
-- **ΔSpeed** = most important signal (momentum change)  
-
----
-
-## Example
+## 5. UI Controls
+- **📊 MACRO PANEL**: Opens a new tab with detailed tables and synchronized charts for all 5 macro assets.
+- **Override USTEC**: Allows manual confirmation/push of the automated score into the session history.
+- **(i) Tooltips**: Hovering over any day's "i" icon reveals the exact Direction, Speed, and ΔSpeed used for that day's calculation.

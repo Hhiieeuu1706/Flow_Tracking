@@ -7,7 +7,7 @@ set "LOG_DIR=e:\Trade folder\Trading_analyze\flow_tracking\data"
 if not exist "%LOG_DIR%" mkdir "%LOG_DIR%"
 set "PREFETCH_LOG=%LOG_DIR%\prefetch_start.log"
 set "FRONTEND_DIR=e:\Trade folder\Trading_analyze\flow_tracking\frontend"
-set "PREFETCH_DAYS=360"
+set "PREFETCH_DAYS=30"
 set "PREFETCH_CONFIRM=0"
 
 powershell -NoProfile -ExecutionPolicy Bypass -Command "Get-CimInstance Win32_Process | Where-Object { $_.Name -eq 'python.exe' -and $_.CommandLine -and ($_.CommandLine -match 'flow_tracking[\\/]+backend[\\/]+app\\.py') } | ForEach-Object { Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue }; Start-Sleep -Milliseconds 700" >nul 2>&1
@@ -32,19 +32,18 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command "Start-Sleep -Seconds 5" 
 REM Prefetch missing H1 cache (partial range) before opening web
 echo [INFO] Running prefetch (%PREFETCH_DAYS% days)...
 echo [INFO] Prefetch log: %PREFETCH_LOG%
-if "%PREFETCH_CONFIRM%"=="1" (
-  set "NO_PAUSE="
-) else (
-  set "NO_PAUSE=1"
-)
-call "%~dp0backend\fetch_flow_mt5.bat" %PREFETCH_DAYS% >> "%PREFETCH_LOG%" 2>&1
-set "NO_PAUSE="
+call "%~dp0backend\fetch_flow_mt5.bat" %PREFETCH_DAYS%
 if %ERRORLEVEL% NEQ 0 (
   echo [WARN] Prefetch failed; starting server anyway.
-  echo [WARN] See prefetch log: %PREFETCH_LOG%
-)
-if %ERRORLEVEL% EQU 0 (
+) else (
   echo [INFO] Prefetch completed.
+)
+
+REM Sync Macro History (Calculate USTEC field strength)
+echo [INFO] Syncing Macro History...
+"%PYTHON_EXE%" "%~dp0backend\sync_macro_history.py"
+if %ERRORLEVEL% NEQ 0 (
+  echo [WARN] Macro History Sync failed.
 )
 
 if not exist "%PYTHON_EXE%" (

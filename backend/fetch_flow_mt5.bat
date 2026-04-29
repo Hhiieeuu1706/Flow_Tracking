@@ -24,11 +24,8 @@ echo [INFO] Prefetching MT5 H1 cache for last %DAYS% day(s)...
 "%PYTHON_EXE%" "%FETCH_SCRIPT%" --days %DAYS%
 set "RC=%ERRORLEVEL%"
 if not "%RC%"=="0" echo [ERROR] Prefetch failed (exit=%RC%).
-if not "%NO_PAUSE%"=="1" (
   echo.
   echo [INFO] fetch_flow_mt5 finished with exit=%RC%.
-  echo Press any key to close...
-  pause >nul
 )
 exit /b %RC%
 
